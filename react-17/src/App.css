@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.PostList {
+  width: 1308px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 15px;
+}
+
+.Post {
+  width: 150px;
+}
+
+.SearchBar {
+  width: 400px;
+  height: 24px;
+  margin: 24px;
+}
